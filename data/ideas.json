@@ -204,10 +204,10 @@
         "tags": "book-app, search, web-app"
     },
     {
-        "title": "Word-guessing-game",
+        "title": "Word guessing game",
         "description": "A simple word guessing game made by using HTML,CSS and JS.",
-        "level": "Intermediate",
-        "tags": "web-game, Js, webd"
+        "level": "intermediate",
+        "tags": "word-guessing-game,html,css,js"
     }
 
 ]
